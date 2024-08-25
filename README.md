@@ -1,8 +1,13 @@
 1.In this project I have created a Task Manager Application using Fastapi and python and MySQL as a Database.(In classes and functions format totally)
+
 2.Firstly in this folder there is a requirements.txt file download that first in the python environment and I prefer and suggest PyCharm for creating and using  Python application and for python programming.
+
 3.pip install -r requirements.txt -- Use this command to download all the require packages and models.
+
 4.After installing the requirements.txt I have create one Registration name python package and in that package again create a com name python package.(To follow the SOLID principles and Architecture of the development).
+
 5.In this project i have followed the SOLID principles and design pattern as per the requirements and the structure of the project i just like the that.
+
 6. Then in com python package there are 6 more python packages with there own specific work and functionality.
 ie. a.const,
     b.controller,
